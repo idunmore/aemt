@@ -12,6 +12,7 @@ import click
 
 # Local Application Modules
 from .atr import atr
+from .cartridge import cart
 
 # Constants
 
@@ -50,6 +51,7 @@ def aemt():
 # Run!
 if __name__ == 'aemt.cli':
     aemt.add_command(atr)
+    aemt.add_command(cart)
     aemt()
 
 if __name__ == '__main__':

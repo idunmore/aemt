@@ -16,4 +16,6 @@ class C:
     Err = fg.red        # For Errors
     Prot = fg.green     # For Write-Protect 
     Unprot = fg.red     # For Writeable (Unprotected)
+    Valid = fg.green    # For Valid/Verified
+    Invalid = fg.red    # For Invalid/Failed Verification
     Off = fg.rs         # Default Color (Color="OFF")
