@@ -144,7 +144,6 @@ class BandSplit(Splitter):
         super().__init__(files)
 
     def split(self: Self, bands: list) -> Folders:
-        
         key_func = lambda x: x.name[0].lower()
         folder_dict = {key: list(group) for key, group
             in itertools.groupby(self._files, key_func)}
