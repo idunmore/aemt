@@ -51,7 +51,7 @@ Current functionality includes:
 
 ## Installing
 
-For all installation options, the first step is to install [Python 3.14.3](python.org) or later (may work with earlier versions, provided they have built-in type-hint support, but not tested).
+For all installation options, the first step is to install [Python 3.14.3](https://python.org) or later (may work with earlier versions, provided they have built-in type-hint support, but not tested).
 
 ### Install via PIP
 
