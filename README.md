@@ -61,7 +61,7 @@ Run:
 
 Run:
 
-    aemt--version
+    aemt --version
 
 You should see something like:
 
