@@ -262,7 +262,7 @@ def compute_checksum(bytes: bytes) -> int:
     return result
 
 @click.group()
-@click.version_option('0.1.1.0')
+@click.version_option()
 def cart():
     '''Identifies and validates Atari 8-bit cartridges.'''
     pass

@@ -34,7 +34,7 @@ PROTECT_BIT_MASK = 0x01
 UNPROTECT_BIT_MASK = 0xFE
 
 @click.group()
-@click.version_option('0.0.1.1')
+@click.version_option()
 def atr():
     '''Manipulates Atari 8-bit .ATR disk images.'''
     pass

@@ -31,7 +31,7 @@ VERBOSE = 2
 # Command Line Interface
 
 @click.group()
-@click.version_option('0.1.0.0')
+@click.version_option()
 def aemt():
     '''[A]tari [E]ight-bit [M]ulti-[T]ool
 
