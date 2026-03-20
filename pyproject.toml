@@ -9,8 +9,7 @@ authors = [
 license = "MIT"
 license-files = ["LICENSE"]
 keywords = ["atari", "the400", "atr", "8-bit", "cartridge", "disk image"]
-classifiers = [
-    "License :: OSI Approved :: MIT License",
+classifiers = [    
     "Operating System :: OS Independent",
     "Programming Language :: Python",
     "Programming Language :: Python :: 3.14"
