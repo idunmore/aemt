@@ -13,7 +13,8 @@ import click
 # Local Application Modules
 from .atr import atr
 from .cartridge import cart
-from .config import config  
+from .config import config
+from .split import split
 
 # Constants
 
@@ -54,6 +55,7 @@ if __name__ == 'aemt.cli':
     aemt.add_command(atr)
     aemt.add_command(cart)
     aemt.add_command(config)
+    aemt.add_command(split)
     aemt()
 
 if __name__ == '__main__':
