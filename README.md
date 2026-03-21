@@ -1,4 +1,4 @@
-# [A]tari [E]ight-bit [M]ulti-[T]ool - aemt.py
+# [A]tari [E]ight-bit [M]ulti-[T]ool - aemt
 
 This is a command-line tool, intended to provide some "quality of life" improvements to managing large game/program libraries, on USB Media, for the "Atari THE400 Mini" (with utilities for other Atari 8-bit emulators).
 
