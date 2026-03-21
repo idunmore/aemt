@@ -43,7 +43,7 @@ Current functionality includes:
       --help     Show this message and exit.
     
     Commands:
-      art     Manipulates Atari 8-bit .ATR disk images.
+      atr     Manipulates Atari 8-bit .ATR disk images.
       cart    Identifies and validates Atari 8-bit cartridges.
       config  Creates and updates .CFG files for THE400 Mini USB Media games.
       split   Moves files to organized folder structures.
