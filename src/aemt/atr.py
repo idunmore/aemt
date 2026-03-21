@@ -80,7 +80,8 @@ def status(recurse: bool, source_path: str):
         is_protected = get_file_protection_status(file)
         status_text = f'{PROTECTED if is_protected else UNPROTECTED}'
         click.echo(f'[{status_text:>25}] {file}')
-        exit(SUCCESS)
+        
+    exit(SUCCESS)
 
 def build_source_file_list(source_path: str, recurse: bool) -> list:
     # We can work on a single file, or a directory (with optional recursion),
