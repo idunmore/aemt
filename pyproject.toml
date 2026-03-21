@@ -1,6 +1,6 @@
 [project]
 name = "aemt"
-version = "1.0.1"
+version = "1.0.2"
 description = "Atari Eight-bit Multi-Tool - Tools for Atari 8-bit computers, consoles and emulators"
 readme = "README.md"
 authors = [
