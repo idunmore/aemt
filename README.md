@@ -1,5 +1,7 @@
 # [A]tari [E]ight-bit [M]ulti-[T]ool - aemt
 
+![GitHub License](https://img.shields.io/github/license/idunmore/aemt)&nbsp;![PyPI - Version](https://img.shields.io/pypi/v/aemt)&nbsp;![PyPI - Python Version](https://img.shields.io/pypi/pyversions/aemt)
+
 This is a command-line tool, intended to provide some "quality of life" improvements to managing large game/program libraries, on USB Media, for the "Atari THE400 Mini" (with utilities for other Atari 8-bit emulators).
 
 Current functionality includes:
